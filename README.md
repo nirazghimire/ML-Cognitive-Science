@@ -1,13 +1,6 @@
-# Predicting Cognitive Patterns with Machine Learning
-
-This repository contains the code and analysis for a research project exploring the predictive capabilities of various machine learning models on a cognitive science dataset. The primary goal was to determine if machine learning could effectively predict outcomes based on patterns identified in data collected from 121 participants.
-
-<p align="center">
-  </p>
-
 ## 🚀 Project Overview
 
-This study provides a comprehensive comparison of multiple machine learning algorithms, from traditional classifiers to advanced deep learning architectures, to identify the most effective models for predicting patterns in a complex cognitive dataset. [cite_start]The project involved a full machine learning workflow, including data preprocessing, feature engineering, model training, and a rigorous evaluation of performance based on metrics like accuracy, precision, recall, and F1-score.
+This repository documents an exploratory analysis into the predictability of cognitive outcomes using machine learning. The primary objective was to establish a performance baseline and determine the feasibility of using ML models to identify patterns in a complex dataset compiled from 121 participants. The project involved a full machine learning workflow, including data preprocessing, model training, and a rigorous comparison of multiple algorithms—from traditional classifiers to deep learning architectures—to identify the most effective approaches for this challenging problem.
 
 ## ✨ Key Features
 
